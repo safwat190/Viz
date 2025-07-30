@@ -1,4 +1,8 @@
 {
-  "DELAY_MIN": 1,
-  "DELAY_MAX": 2
+  "PRE_DELAY_MIN": 1,
+  "PRE_DELAY_MAX": 2,
+  "AT_DELAY_MIN": 1,
+  "AT_DELAY_MAX": 2,
+  "POST_DELAY_MIN": 1,
+  "POST_DELAY_MAX": 2
 }
