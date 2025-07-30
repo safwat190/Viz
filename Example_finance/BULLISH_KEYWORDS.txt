@@ -56,3 +56,4 @@ acquired
 announces
 announced
 outcome
+revenue
