@@ -4,5 +4,6 @@
   "AT_DELAY_MIN": 1,
   "AT_DELAY_MAX": 2,
   "POST_DELAY_MIN": 1,
-  "POST_DELAY_MAX": 2
+  "POST_DELAY_MAX": 2,
+  "test": 5
 }
